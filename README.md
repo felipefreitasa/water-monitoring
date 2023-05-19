@@ -17,7 +17,7 @@ https://github.com/felipefreitasa/checklist/assets/77179768/018920eb-24e4-4f63-b
 Clone the project
 
 ```bash
-  git clone https://github.com/felipefreitasa/water-monitoring
+  git clone https://github.com/felipefreitasa/water-monitoring.git
 ```
 
 Enter the project directory
